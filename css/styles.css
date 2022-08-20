@@ -1,0 +1,41 @@
+/*******************************TAG SELECTORS******************************/
+
+body {
+  background-color: #F9F5EB;
+}
+
+hr {
+  border-color: #607EAA;
+  border-style: dotted none none;
+  border-width: 7px;
+  height: 0;
+  width: 10%;
+}
+
+h1 {
+  color: #1C3879
+}
+
+h3 {
+  color: #1C3879
+}
+
+img:hover {
+  width: 160px;
+}
+
+/*******************************CLASS SELECTORS****************************/
+
+.subtitle {
+  font-size: 35px;
+}
+
+.school:hover {
+  font-size: 20px
+}
+
+/********************************ID SELECTORS******************************/
+
+#name {
+  font-size: 50px;
+}
